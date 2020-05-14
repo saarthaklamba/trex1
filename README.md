@@ -1,2 +1,2 @@
-# trex1
-endless runner game
+# trex
+chrome trex game created using p5.play
